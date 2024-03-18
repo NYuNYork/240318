@@ -1,0 +1,16 @@
+:root{
+    /* --laczko: 45, 45, 45; */
+    --bs-dark-rgb: 208,231, 210;
+}
+
+.nav-link{
+    color: #79AC78;
+}
+
+.nav-link:hover{
+    color: #618264;
+}
+
+.navbar-toggler,.collapse{
+    color: #79AC78;
+}
